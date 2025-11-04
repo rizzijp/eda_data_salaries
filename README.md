@@ -1,62 +1,71 @@
-Propósito del Análisis
+# 📊 Análisis Exploratorio de Datos: Empleos y Salarios en Carreras de Datos
+---
 
-En el dinámico y cambiante panorama de las carreras relacionadas con los datos, comprender los roles laborales y las tendencias salariales es fundamental para quienes buscan orientar su desarrollo profesional.
-A través del análisis de aspectos clave como los diferentes puestos, la ubicación de las empresas, el nivel de experiencia y los salarios promedio, este estudio busca ofrecer una visión clara del mercado y servir como guía para quienes se inician en profesiones vinculadas al análisis y la ciencia de datos.
+## 🎯 Propósito del Análisis
 
-El documento se estructura de la siguiente manera:
+En el cambiante panorama de las profesiones relacionadas con los datos, comprender los roles laborales y las tendencias salariales es clave para orientar el desarrollo profesional.  
+Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre un conjunto global de empleos y salarios en Data Science, Machine Learning, Inteligencia Artificial y áreas afines, con el fin de descubrir patrones, relaciones y oportunidades que sirvan de guía para los nuevos profesionales del sector.
 
-Definición del objetivo de negocio y su propósito.
+---
 
-Descripción detallada de las fuentes de datos.
+## 🧭 Objetivo de Negocio
 
-Documentación de los pasos de limpieza y transformación.
+El objetivo principal es ofrecer una **visión general del mercado laboral en carreras de datos**, analizando cómo influyen distintos factores en la compensación económica y en las oportunidades profesionales.
 
-Análisis acompañado de visualizaciones y hallazgos clave.
 
-Conclusiones e ideas para futuras exploraciones.
+## 🗂️ Fuente y Descripción de los Datos
 
-Objetivo de Negocio
+**Fuente:**  
+Datos obtenidos del repositorio público de [ai-jobs.net/salaries](https://github.com/foorilla/ai-jobs-net-salaries), que recopila información anónima y actualizada semanalmente sobre salarios en el ámbito de la ciencia de datos y la inteligencia artificial.
 
-El objetivo es realizar un Análisis Exploratorio de Datos (EDA) que proporcione una visión significativa de los salarios en carreras relacionadas con datos a nivel global, junto con perspectivas, tendencias y conclusiones que orienten a los nuevos profesionales del sector.
+**Descripción general:**  
+El dataset contiene información sobre salarios y condiciones laborales de profesionales del sector tecnológico a nivel mundial.  
+Incluye variables relacionadas con el año de registro, nivel de experiencia, tipo de empleo, título del puesto, moneda, país de residencia, modalidad de trabajo, tamaño de empresa y salario anual convertido a dólares estadounidenses (USD) para facilitar comparaciones globales.
 
-Preguntas guía del análisis:
+---
 
-¿Cómo están organizados los datos?
+## 📈 Análisis Exploratorio
 
-¿Existen problemas de sesgo o credibilidad en la fuente?
+El EDA se centró en identificar relaciones entre variables y patrones dentro del conjunto de datos, mediante:
+- **Análisis univariante y bivariante** de las principales variables.  
+- **Visualizaciones comparativas** entre categorías profesionales, niveles de experiencia y modalidades laborales.  
+- **Exploración multivariante** para detectar relaciones complejas entre factores.  
+- **Aplicación de tests estadísticos** (Chi-Cuadrado, Mann-Whitney, ANOVA) para contrastar hipótesis y validar conclusiones.
 
-¿Qué pasos se siguieron para limpiar los datos?
+---
 
-¿Qué herramientas se utilizaron en el análisis?
+## 📊 Principales Hipótesis
 
-¿Cómo influyen factores como el país, el puesto, el tamaño de la empresa, la modalidad de trabajo y el nivel de experiencia en el salario?
+1. La **experiencia profesional** es el principal factor determinante del salario.  
+2. La **categoría o tipo de rol** influye significativamente en la compensación.  
+3. La **modalidad laboral** (presencial, híbrida o remota) tiene un efecto limitado sobre el salario.
 
-¿Qué tendencias o relaciones se detectaron?
+---
 
-¿Cómo pueden estos hallazgos ayudar al público objetivo a tomar mejores decisiones?
+## 💡 Conclusiones Generales
 
-Fuente y Descripción de los Datos
+- El sector de datos continúa en **crecimiento sostenido** a nivel global.  
+- Existe una **amplia brecha salarial** entre niveles de experiencia.  
+- La **especialización técnica** y el enfoque en áreas de IA y Machine Learning representan un valor diferencial en el mercado.  
+- Los resultados permiten orientar a nuevos profesionales sobre las **tendencias y oportunidades** del ecosistema laboral de datos.
 
-Fuente:
-https://github.com/foorilla/ai-jobs-net-salaries
+---
 
-Descripción:
-El dataset contiene información global sobre salarios en los campos de Inteligencia Artificial, Machine Learning y Big Data, recopilada de forma anónima a través de la encuesta de ai-jobs.net/salaries
-.
-Su objetivo es ofrecer una referencia transparente sobre la remuneración en diferentes roles del sector, ayudando a profesionales, reclutadores y empresas a tomar decisiones mejor informadas.
+## 🛠️ Herramientas y Tecnologías
 
-Los datos se actualizan semanalmente e incluyen información anónima de profesionales y empleadores de todo el mundo. El dataset consta de una única tabla con las siguientes columnas principales:
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, SciPy)  
+- **Jupyter Notebook** (`data_salaries_eda.ipynb`)  
+- **Pruebas estadísticas:** Chi-Cuadrado, Mann-Whitney  
+- **Visualización:** Seaborn y Matplotlib  
 
-Columna	Descripción
-work_year	Año en que se registró el dato.
-experience_level	Nivel de experiencia profesional (Entry-level, Mid-level, Senior, Executive).
-employment_type	Tipo de empleo (Full-time, Part-time, Contract).
-job_title	Título específico del puesto (Data Scientist, Data Engineer, Data Analyst, etc.).
-salary	Salario bruto anual en la moneda local.
-salary_currency	Moneda en la que se paga el salario (USD, EUR, etc.).
-salary_in_usd	Salario bruto anual convertido a dólares estadounidenses (USD) para facilitar comparaciones.
-employee_residence	País de residencia del empleado.
-remote_ratio	Porcentaje de trabajo remoto.
-company_location	País donde se encuentra la empresa.
-company_size	Tamaño de la empresa (S: pequeña, M: mediana, L: grande).
-job_category	Clasificación general del rol en categorías amplias.
+---
+
+## Autor
+
+**Juan Pablo Rizzi**  
+📍 Madrid, España  
+🎓 Data Science & AI Bootcamp — *The Bridge, 2025*  
+💼 Ingeniero Industrial orientado al Análisis y Automatización de Procesos  
+📅 *Noviembre 2025* 
+
+---
