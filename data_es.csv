@@ -1,0 +1,190 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,job_category
+2025,SE,FT,Software Engineer,115000,EUR,121052,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,55000,EUR,57894,ES,100,ES,M,Data Engineering
+2025,MI,FT,BI Engineer,42800,EUR,45052,ES,0,ES,M,BI and Visualization
+2025,MI,FT,BI Engineer,40000,EUR,42105,ES,0,ES,M,BI and Visualization
+2025,MI,FT,Data Engineer,32000,EUR,33684,ES,0,ES,M,Data Engineering
+2025,MI,FT,Data Engineer,28000,EUR,29473,ES,0,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,120000,USD,120000,ES,100,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,80000,USD,80000,ES,100,ES,M,Data Engineering
+2025,MI,FT,Analytics Engineer,55000,EUR,57894,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Analytics Engineer,45000,EUR,47368,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Data Specialist,30000,EUR,31578,ES,0,ES,M,Data Management and Strategy
+2025,MI,FT,Data Specialist,28000,EUR,29473,ES,0,ES,M,Data Management and Strategy
+2025,MI,FT,Data Scientist,120000,USD,120000,ES,100,ES,M,Data Science and Research
+2025,MI,FT,Data Scientist,80000,USD,80000,ES,100,ES,M,Data Science and Research
+2025,MI,FT,Machine Learning Engineer,120000,USD,120000,ES,100,ES,M,Machine Learning and AI
+2025,MI,FT,Machine Learning Engineer,80000,USD,80000,ES,100,ES,M,Machine Learning and AI
+2025,SE,FT,Data Scientist,48000,EUR,50526,ES,100,ES,M,Data Science and Research
+2025,SE,FT,Data Scientist,38400,EUR,40421,ES,100,ES,M,Data Science and Research
+2025,SE,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,55000,EUR,57894,ES,100,ES,M,Data Engineering
+2025,MI,FT,AI Engineer,100000,EUR,105263,ES,0,ES,M,Machine Learning and AI
+2025,MI,FT,AI Engineer,60000,EUR,63157,ES,0,ES,M,Machine Learning and AI
+2025,MI,FT,Product Owner,100000,EUR,105263,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Product Owner,60000,EUR,63157,ES,0,ES,M,Leadership and Management
+2025,SE,FT,Software Engineer,115000,EUR,121052,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,MI,FT,Data & Analytics Specialist,51750,EUR,54473,ES,0,ES,M,Data Analysis
+2025,MI,FT,Data & Analytics Specialist,35000,EUR,36842,ES,0,ES,M,Data Analysis
+2025,SE,FT,Product Manager,63250,EUR,66578,ES,0,ES,M,Leadership and Management
+2025,SE,FT,Product Manager,40000,EUR,42105,ES,0,ES,M,Leadership and Management
+2025,MI,FT,DevOps Engineer,40000,EUR,42105,ES,100,ES,M,Cloud and Database
+2025,MI,FT,DevOps Engineer,35000,EUR,36842,ES,100,ES,M,Cloud and Database
+2025,EN,FT,Data Engineer,35000,EUR,36842,ES,0,ES,M,Data Engineering
+2025,EN,FT,Data Engineer,25000,EUR,26315,ES,0,ES,M,Data Engineering
+2025,SE,FT,Research Scientist,31200,EUR,32842,ES,0,ES,M,Data Science and Research
+2025,SE,FT,Research Scientist,31200,EUR,32842,ES,0,ES,M,Data Science and Research
+2025,SE,FT,AI Engineer,46000,EUR,48421,ES,0,ES,M,Machine Learning and AI
+2025,SE,FT,AI Engineer,26000,EUR,27368,ES,0,ES,M,Machine Learning and AI
+2025,MI,FT,Postdoctoral Researcher,40949,EUR,43104,ES,0,ES,M,Data Science and Research
+2025,MI,FT,Postdoctoral Researcher,40949,EUR,43104,ES,0,ES,M,Data Science and Research
+2025,SE,FT,Data Engineer 4,120000,USD,120000,ES,50,ES,S,Data Engineering
+2025,SE,FT,AI Architect,45000,EUR,47368,ES,100,ES,M,Machine Learning and AI
+2025,SE,FT,AI Architect,30000,EUR,31578,ES,100,ES,M,Machine Learning and AI
+2025,EN,FT,Data Analyst,40000,EUR,42105,ES,0,ES,M,Data Analysis
+2025,EN,FT,Data Analyst,35000,EUR,36842,ES,0,ES,M,Data Analysis
+2025,MI,FT,Data Specialist,32000,EUR,33684,ES,0,ES,M,Data Management and Strategy
+2025,MI,FT,Data Specialist,28000,EUR,29473,ES,0,ES,M,Data Management and Strategy
+2025,MI,FT,Manager,39000,EUR,41052,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Manager,33000,EUR,34736,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Data Scientist,48000,EUR,50526,ES,100,ES,M,Data Science and Research
+2025,MI,FT,Data Scientist,38400,EUR,40421,ES,100,ES,M,Data Science and Research
+2025,EX,FT,Data Scientist,26000,EUR,27368,ES,0,ES,M,Data Science and Research
+2025,EX,FT,Data Scientist,26000,EUR,27368,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Researcher,27000,EUR,28421,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Researcher,22823,EUR,24024,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Data Scientist,24000,EUR,25263,ES,50,ES,M,Data Science and Research
+2025,MI,FT,Data Analyst,45000,EUR,47368,ES,0,ES,M,Data Analysis
+2025,MI,FT,Data Analyst,38000,EUR,40000,ES,0,ES,M,Data Analysis
+2025,SE,FT,Data Engineer,50000,EUR,52631,ES,100,ES,M,Data Engineering
+2025,SE,FT,Data Engineer,36000,EUR,37894,ES,100,ES,M,Data Engineering
+2025,SE,FT,Data Engineer,50000,EUR,52631,ES,100,ES,M,Data Engineering
+2025,SE,FT,Data Engineer,36000,EUR,37894,ES,100,ES,M,Data Engineering
+2025,SE,FT,Data Analyst,59000,EUR,62105,ES,100,ES,M,Data Analysis
+2025,SE,FT,Data Analyst,47000,EUR,49473,ES,100,ES,M,Data Analysis
+2025,SE,FT,Data Analyst,59000,EUR,62105,ES,100,ES,M,Data Analysis
+2025,SE,FT,Data Analyst,47000,EUR,49473,ES,100,ES,M,Data Analysis
+2025,SE,FT,Software Engineer,131000,EUR,137894,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,101000,EUR,106315,ES,100,ES,M,Data Engineering
+2025,MI,FT,Engineer,110000,USD,110000,ES,100,ES,M,Data Engineering
+2025,MI,FT,Engineer,80000,USD,80000,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,115000,EUR,121052,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,EN,FT,Data Quality Analyst,31000,EUR,32631,ES,0,ES,M,Data Quality and Operations
+2025,EN,FT,Data Quality Analyst,29000,EUR,30526,ES,0,ES,M,Data Quality and Operations
+2025,MI,FT,AI Engineer,90000,EUR,94736,ES,100,ES,M,Machine Learning and AI
+2025,MI,FT,AI Engineer,60000,EUR,63157,ES,100,ES,M,Machine Learning and AI
+2025,MI,FT,AI Engineer,46000,EUR,48421,ES,0,ES,M,Machine Learning and AI
+2025,MI,FT,AI Engineer,26000,EUR,27368,ES,0,ES,M,Machine Learning and AI
+2025,SE,FT,Data Engineer,40000,EUR,42105,ES,0,ES,M,Data Engineering
+2025,SE,FT,Data Engineer,35000,EUR,36842,ES,0,ES,M,Data Engineering
+2025,MI,FT,Backend Developer,32000,EUR,33684,ES,100,ES,M,Data Engineering
+2025,MI,FT,Backend Developer,27000,EUR,28421,ES,100,ES,M,Data Engineering
+2025,EN,FT,Data Analyst,42000,EUR,44210,ES,100,ES,M,Data Analysis
+2025,EN,FT,Data Analyst,25000,EUR,26315,ES,100,ES,M,Data Analysis
+2025,MI,FT,Consultant,25000,EUR,26315,ES,0,ES,M,Data Management and Strategy
+2025,MI,FT,Consultant,20000,EUR,21052,ES,0,ES,M,Data Management and Strategy
+2025,SE,FT,Software Engineer,115000,EUR,121052,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,85000,EUR,89473,ES,100,ES,M,Data Engineering
+2025,MI,FT,Manager,125050,USD,125050,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Manager,82800,USD,82800,ES,0,ES,M,Leadership and Management
+2025,EN,FT,Data Scientist,35000,EUR,36842,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Data Scientist,28000,EUR,29473,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Data Analyst,29000,EUR,30526,ES,0,ES,M,Data Analysis
+2025,EN,FT,Data Analyst,25000,EUR,26315,ES,0,ES,M,Data Analysis
+2025,MI,FT,Data Engineer,69000,EUR,72631,ES,0,ES,M,Data Engineering
+2025,MI,FT,Data Engineer,41000,EUR,43157,ES,0,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,101000,EUR,106315,ES,100,ES,M,Data Engineering
+2025,MI,FT,Software Engineer,71000,EUR,74736,ES,100,ES,M,Data Engineering
+2025,MI,FT,Data Manager,35000,EUR,36842,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Data Manager,30000,EUR,31578,ES,0,ES,M,Leadership and Management
+2025,SE,FT,Power BI Expert,99000,EUR,104210,ES,0,ES,M,BI and Visualization
+2025,SE,FT,Power BI Expert,59000,EUR,62105,ES,0,ES,M,BI and Visualization
+2025,SE,FT,Power BI Expert,150000,EUR,157894,ES,0,ES,M,BI and Visualization
+2025,SE,FT,Power BI Expert,90000,EUR,94736,ES,0,ES,M,BI and Visualization
+2025,EN,FT,Data Scientist,35000,EUR,36842,ES,0,ES,M,Data Science and Research
+2025,EN,FT,Data Scientist,28000,EUR,29473,ES,0,ES,M,Data Science and Research
+2025,SE,FT,Manager,200000,USD,200000,ES,0,ES,M,Leadership and Management
+2025,SE,FT,Manager,130000,USD,130000,ES,0,ES,M,Leadership and Management
+2025,MI,FT,Data Scientist,50000,EUR,52631,ES,50,ES,L,Data Science and Research
+2025,EN,FT,Data Scientist,30000,EUR,31578,ES,100,ES,S,Data Science and Research
+2025,EN,FT,Data Scientist,35000,EUR,36842,ES,50,ES,L,Data Science and Research
+2025,EN,FT,AI Engineer,30000,EUR,31578,ES,0,ES,S,Machine Learning and AI
+2025,SE,FT,Software Engineer,147000,EUR,154736,ES,100,ES,M,Data Engineering
+2025,SE,FT,Software Engineer,117000,EUR,123157,ES,100,ES,M,Data Engineering
+2025,MI,FT,Analytics Engineer,85000,EUR,89473,ES,100,ES,M,Leadership and Management
+2025,MI,FT,Analytics Engineer,75000,EUR,78947,ES,100,ES,M,Leadership and Management
+2025,EN,FT,Machine Learning Specialist,35672,EUR,37549,ES,0,ES,M,Machine Learning and AI
+2025,EN,FT,Machine Learning Specialist,35672,EUR,37549,ES,0,ES,M,Machine Learning and AI
+2025,MI,FT,Engineer,19576,EUR,20606,ES,0,ES,M,Data Engineering
+2025,MI,FT,Engineer,34259,EUR,36062,ES,0,ES,M,Data Engineering
+2025,SE,FT,AI Machine Learning Engineer,79500,EUR,83684,ES,100,ES,L,Machine Learning and AI
+2025,SE,FT,Data Architect,46000,EUR,48421,ES,0,ES,M,Data Architecture and Modeling
+2025,SE,FT,Data Architect,40000,EUR,42105,ES,0,ES,M,Data Architecture and Modeling
+2024,SE,FT,Data Analyst,67500,EUR,75000,ES,100,ES,M,Data Analysis
+2024,SE,FT,Data Analyst,40500,EUR,45000,ES,100,ES,M,Data Analysis
+2024,EN,FT,Data Analyst,26000,EUR,28888,ES,100,ES,L,Data Analysis
+2024,SE,FT,Data Scientist,70000,EUR,77777,ES,100,ES,M,Data Science and Research
+2024,SE,FT,Data Scientist,60000,EUR,66666,ES,100,ES,M,Data Science and Research
+2024,SE,FT,Software Engineer,115000,EUR,127777,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,85000,EUR,94444,ES,100,ES,M,Data Engineering
+2024,MI,FT,Data Governance Specialist,69000,EUR,76666,ES,0,ES,M,Data Management and Strategy
+2024,MI,FT,Data Governance Specialist,41000,EUR,45555,ES,0,ES,M,Data Management and Strategy
+2024,SE,FT,Data Engineer,110000,EUR,122222,ES,100,ES,M,Data Engineering
+2024,SE,FT,Data Engineer,80000,EUR,88888,ES,100,ES,M,Data Engineering
+2024,MI,FT,Analyst,68000,EUR,75555,ES,0,ES,M,Data Analysis
+2024,MI,FT,Analyst,41000,EUR,45555,ES,0,ES,M,Data Analysis
+2024,SE,FT,AI Developer,52000,EUR,57777,ES,0,ES,M,Machine Learning and AI
+2024,SE,FT,AI Developer,45000,EUR,50000,ES,0,ES,M,Machine Learning and AI
+2024,SE,FT,Software Engineer,115000,EUR,127777,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,85000,EUR,94444,ES,100,ES,M,Data Engineering
+2024,MI,FT,Consultant,178000,USD,178000,ES,0,ES,M,Data Management and Strategy
+2024,MI,FT,Consultant,160000,USD,160000,ES,0,ES,M,Data Management and Strategy
+2024,MI,FT,Software Engineer,101000,EUR,112222,ES,100,ES,M,Data Engineering
+2024,MI,FT,Software Engineer,71000,EUR,78888,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,115000,EUR,127777,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,85000,EUR,94444,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,147000,EUR,163333,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,117000,EUR,130000,ES,100,ES,M,Data Engineering
+2024,MI,FT,Machine Learning Engineer,41000,EUR,45555,ES,0,ES,M,Machine Learning and AI
+2024,MI,FT,Machine Learning Engineer,36000,EUR,40000,ES,0,ES,M,Machine Learning and AI
+2024,SE,FT,Data Analyst,112500,EUR,125000,ES,100,ES,M,Data Analysis
+2024,SE,FT,Data Analyst,67750,EUR,75277,ES,100,ES,M,Data Analysis
+2024,SE,FT,Engineer,67000,EUR,74444,ES,100,ES,M,Data Engineering
+2024,SE,FT,Engineer,60000,EUR,66666,ES,100,ES,M,Data Engineering
+2024,SE,FT,Engineer,60000,EUR,66666,ES,100,ES,M,Data Engineering
+2024,SE,FT,Engineer,50000,EUR,55555,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,115000,EUR,127777,ES,100,ES,M,Data Engineering
+2024,SE,FT,Software Engineer,85000,EUR,94444,ES,100,ES,M,Data Engineering
+2024,SE,FT,Machine Learning Engineer,153000,EUR,170000,ES,100,ES,M,Machine Learning and AI
+2024,SE,FT,Machine Learning Engineer,105000,EUR,116666,ES,100,ES,M,Machine Learning and AI
+2024,SE,FT,Machine Learning Engineer,183000,EUR,203333,ES,100,ES,M,Machine Learning and AI
+2024,SE,FT,Machine Learning Engineer,126000,EUR,140000,ES,100,ES,M,Machine Learning and AI
+2024,MI,FT,Engineer,32000,EUR,35555,ES,0,ES,M,Data Engineering
+2024,MI,FT,Engineer,29000,EUR,32222,ES,0,ES,M,Data Engineering
+2024,MI,FT,Engineer,120000,USD,120000,ES,100,ES,M,Data Engineering
+2024,MI,FT,Engineer,80000,USD,80000,ES,100,ES,M,Data Engineering
+2024,SE,FT,Product Manager,93869,EUR,104298,ES,100,ES,M,Leadership and Management
+2024,SE,FT,Product Manager,78224,EUR,86915,ES,100,ES,M,Leadership and Management
+2024,SE,FT,Machine Learning Engineer,107500,EUR,119444,ES,100,ES,M,Machine Learning and AI
+2024,SE,FT,Machine Learning Engineer,71700,EUR,79666,ES,100,ES,M,Machine Learning and AI
+2024,MI,FT,Data Engineer,91900,EUR,102111,ES,100,ES,M,Data Engineering
+2024,MI,FT,Data Engineer,61300,EUR,68111,ES,100,ES,M,Data Engineering
+2024,EN,FT,Data Engineer,35000,EUR,38888,ES,0,ES,M,Data Engineering
+2024,EN,FT,Data Engineer,27000,EUR,30000,ES,0,ES,M,Data Engineering
+2024,MI,FT,Data Quality Manager,50000,EUR,55555,ES,0,ES,M,Data Quality and Operations
+2024,MI,FT,Data Quality Manager,40000,EUR,44444,ES,0,ES,M,Data Quality and Operations
+2024,SE,FT,Data Scientist,60000,EUR,66666,ES,0,ES,M,Data Science and Research
+2024,SE,FT,Data Scientist,38000,EUR,42222,ES,0,ES,M,Data Science and Research
+2024,EX,FT,Data Scientist,96000,EUR,106666,ES,100,ES,L,Data Science and Research
+2024,EX,FT,Data Scientist,96000,EUR,106666,ES,100,ES,L,Data Science and Research
+2024,MI,FT,Admin & Data Analyst,38000,EUR,42222,ES,100,ES,L,Data Analysis
+2024,SE,FT,Data Scientist,60000,EUR,66666,ES,0,ES,M,Data Science and Research
+2024,SE,FT,Data Scientist,38000,EUR,42222,ES,0,ES,M,Data Science and Research
+2024,EN,FT,Data Analyst,26000,EUR,28888,ES,0,ES,M,Data Analysis
+2024,EN,FT,Data Analyst,21000,EUR,23333,ES,0,ES,M,Data Analysis
+2024,MI,FT,Machine Learning Engineer,125800,EUR,139777,ES,100,ES,M,Machine Learning and AI
+2024,MI,FT,Machine Learning Engineer,83900,EUR,93222,ES,100,ES,M,Machine Learning and AI
